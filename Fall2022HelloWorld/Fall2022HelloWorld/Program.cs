@@ -13,7 +13,7 @@ Console.WriteLine(studentCount);
 var averageClassSize = studentCount / 4f;
 Console.WriteLine(averageClassSize);
 
-var parsedValue = Int32.Parse("4234");
+var parsedValue = int.Parse("4234");
 Console.WriteLine(parsedValue + 10);
 
 
@@ -27,3 +27,5 @@ Console.WriteLine(c + b);
 var y = 4234;
 var z = "Stilmore Rd";
 Console.WriteLine(y + z);
+
+var isDavis = Instructor == "Davis";
