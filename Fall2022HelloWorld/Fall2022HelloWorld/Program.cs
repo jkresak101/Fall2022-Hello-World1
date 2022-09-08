@@ -15,3 +15,15 @@ Console.WriteLine(averageClassSize);
 
 var parsedValue = Int32.Parse("4234");
 Console.WriteLine(parsedValue + 10);
+
+
+var a = 3 * 7 + 32 / 2;
+Console.WriteLine(a);
+
+var c = 27 * 12;
+var b = 12 - 10;
+Console.WriteLine(c + b);
+
+var y = 4234;
+var z = "Stilmore Rd";
+Console.WriteLine(y + z);
